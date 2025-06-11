@@ -1,0 +1,70 @@
+﻿Kyara Beverages – One-File Modern Website
+A modern, creative, and responsive single-page website for Kyara Beverages, a brand specializing in millet-based fruit drinks. This project is self-contained in a single index.html file with all styles and scripts integrated for easy deployment and sharing.
+ Features Overview
+Visual Design
+* Gradient hero section with floating animated drink icons
+
+* Glass Morphism-style contact form with blurred background
+
+* Vibrant color palette (greens, oranges, and warm earthy tones)
+
+* Micro-interactions and card hover animations
+
+UX & Interactions
+   * Smooth scroll-based content reveals
+
+   * Dynamic sticky header that responds on scroll
+
+   * Floating decorative icons in the background
+
+   * Success feedback animation on form submission
+
+   * Underline navigation hover effects
+
+Responsive Design
+      * Fully mobile-first layout
+
+      * Optimized for phones, tablets, and desktops
+
+      * Clean typography and intuitive layout for all screen sizes
+
+
+
+ Files Included
+
+
+│
+├── index.html      #   All HTML, CSS, and JS integrated in this one file
+└── README.md       #  This documentation file
+
+
+________________
+
+
+How to Use
+         1. Download the file
+
+         2. Open index.html in any modern web browser
+
+         3. Replace placeholder text or image URLs with your own content (if needed)
+
+Notes
+            * All code is inline (CSS & JS are embedded in the HTML for simplicity)
+
+            * Best for small-scale presentation or quick deployment
+
+            * You can later extract CSS/JS into separate files for scaling or optimization
+
+
+
+Live Demo
+
+
+  
+
+
+
+  
+
+Designed and developed by Shashank Sahu
+ For Kyara Beverages  - Showcasing the freshness of millet-based fruit drinks in a modern way.
